@@ -5,3 +5,4 @@
 // checking editor settings
 //stage
 // learn about git diff
+// learn about git commit -v
