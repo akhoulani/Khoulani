@@ -3,4 +3,5 @@
 //learning about abandoning
 // Staged
 // checking editor settings
-//stages
+//stage
+// learn about git diff
